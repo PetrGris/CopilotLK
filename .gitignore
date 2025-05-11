@@ -58,3 +58,6 @@ htmlcov/
 # Local development
 *.db
 *.sqlite3 
+
+# OLD and TEMP
+/OLD and TEMP
